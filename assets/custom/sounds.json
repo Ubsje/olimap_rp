@@ -1,0 +1,98 @@
+{
+	"music_themepark": {
+		"sounds": [
+			"custom:music/themepark"]
+		},
+	"music_opening": {
+		"sounds": [
+			"custom:music/opening"]
+		},
+	"music_apartment": {
+		"sounds": [
+			"custom:music/apartment"]
+		},
+	"music_scary": {
+		"sounds": [
+			"custom:music/scary"]
+		},
+	"music_airplane": {
+		"sounds": [
+			"custom:music/airplane"]
+		},
+	"music_beach": {
+		"sounds": [
+			"custom:music/beach"]
+		},
+	"music_themepark-ingame": {
+		"sounds": [
+			"custom:music/themepark-ingame"]
+		},
+	"music_redstone-lab": {
+		"sounds": [
+			"custom:music/redstone-lab"]
+		},
+	"music_mine-intro": {
+		"sounds": [
+			"custom:music/mine-intro"]
+		},
+	"music_mine-drop-1": {
+		"sounds": [
+			"custom:music/mine-drop-1"]
+		},
+	"music_mine-dungeon-1": {
+		"sounds": [
+			"custom:music/mine-dungeon-1"]
+		},
+	"music_mine-amethyst-cove": {
+		"sounds": [
+			"custom:music/mine-amethyst-cove"]
+		},
+	"music_disco-1-bass": {
+		"sounds": [
+			"custom:music/disco-1-bass"]
+		},
+	"music_disco-1-left": {
+		"sounds": [
+			"custom:music/disco-1-left"]
+		},
+	"music_disco-1-right": {
+		"sounds": [
+			"custom:music/disco-1-right"]
+		},
+	"sound_test": {
+		"sounds": [
+			"custom:sound/test"]
+		},
+	"sound_toilet_flush": {
+		"sounds": [
+			"custom:sound/toilet_flush"]
+		},
+	"sound_airport": {
+		"sounds": [
+			"custom:sound/airport"]
+		},
+	"sound_peeing": {
+		"sounds": [
+			"custom:sound/peeing"]
+		},
+	"sound_sleep": {
+		"sounds": [
+			"custom:sound/sleep"]
+		},
+	"sound_rooster": {
+		"sounds": [
+			"custom:sound/rooster"]
+		},
+	"sound_lights": {
+		"sounds": [
+			"custom:sound/lights"]
+		},
+	"sound_engine_start": {
+		"sounds": [
+			"custom:sound/engine_start"]
+		},
+	"sound_engine_loop": {
+		"sounds": [
+			"custom:sound/engine_loop"]
+		}
+}
