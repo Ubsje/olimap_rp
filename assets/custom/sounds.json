@@ -63,6 +63,10 @@
 		"sounds": [
 			"custom:music/mine-campfire"]
 		},
+	"music_carousel": {
+		"sounds": [
+			"custom:music/carousel"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
