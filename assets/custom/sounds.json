@@ -59,6 +59,10 @@
 		"sounds": [
 			"custom:music/disco-1-right"]
 		},
+	"music_mine-campfire": {
+		"sounds": [
+			"custom:music/mine-campfire"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]

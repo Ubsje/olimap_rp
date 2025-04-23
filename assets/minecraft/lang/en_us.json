@@ -5,5 +5,6 @@
 	"soundCategory.record": "Map Music",
 	"item.minecraft.baked_potato": "Microwaved Potato",
 	"item.minecraft.spyglass": "Monocular O' Espionage",
-	"item.minecraft.chainmail_helmet": "Villager Disguise"
+	"item.minecraft.chainmail_helmet": "Villager Disguise",
+	"block.minecraft.deepslate_iron_ore": "Corestone Iron Ore"
 }
