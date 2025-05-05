@@ -35,13 +35,41 @@
 		"sounds": [
 			"custom:music/mine-intro"]
 		},
-	"music_mine-drop-1": {
+	"music_mine-dropper-1": {
 		"sounds": [
-			"custom:music/mine-drop-1"]
+			"custom:music/mine-dropper-1"]
+		},
+	"music_mine-dropper-2": {
+		"sounds": [
+			"custom:music/mine-dropper-2"]
+		},
+	"music_mine-dropper-3": {
+		"sounds": [
+			"custom:music/mine-dropper-3"]
+		},
+	"music_mine-dropper-4": {
+		"sounds": [
+			"custom:music/mine-dropper-4"]
+		},
+	"music_mine-dropper-5": {
+		"sounds": [
+			"custom:music/mine-dropper-5"]
 		},
 	"music_mine-dungeon-1": {
 		"sounds": [
 			"custom:music/mine-dungeon-1"]
+		},
+	"music_mine-dungeon-2": {
+		"sounds": [
+			"custom:music/mine-dungeon-2"]
+		},
+	"music_mine-dungeon-3": {
+		"sounds": [
+			"custom:music/mine-dungeon-3"]
+		},
+	"music_mine-dungeon-4": {
+		"sounds": [
+			"custom:music/mine-dungeon-4"]
 		},
 	"music_mine-amethyst-cove": {
 		"sounds": [
@@ -66,6 +94,10 @@
 	"music_carousel": {
 		"sounds": [
 			"custom:music/carousel"]
+		},
+	"music_temple": {
+		"sounds": [
+			"custom:music/temple"]
 		},
 	"sound_test": {
 		"sounds": [
