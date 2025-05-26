@@ -99,6 +99,10 @@
 		"sounds": [
 			"custom:music/temple"]
 		},
+	"music_town-square": {
+		"sounds": [
+			"custom:music/town-square"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
