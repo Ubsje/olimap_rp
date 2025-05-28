@@ -138,5 +138,9 @@
 	"sound_engine_loop": {
 		"sounds": [
 			"custom:sound/engine_loop"]
+		},
+	"sound_papers_please": {
+		"sounds": [
+			"custom:sound/papers_please"]
 		}
 }
