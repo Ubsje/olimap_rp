@@ -103,6 +103,10 @@
 		"sounds": [
 			"custom:music/town-square"]
 		},
+	"music_living-area": {
+		"sounds": [
+			"custom:music/living-area"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
