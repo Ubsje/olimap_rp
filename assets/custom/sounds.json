@@ -107,6 +107,10 @@
 		"sounds": [
 			"custom:music/living-area"]
 		},
+	"music_beach-ambience": {
+		"sounds": [
+			"custom:music/beach-ambience"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
