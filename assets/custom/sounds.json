@@ -87,6 +87,18 @@
 		"sounds": [
 			"custom:music/disco-1-right"]
 		},
+	"music_disco-2-bass": {
+		"sounds": [
+			"custom:music/disco-2-bass"]
+		},
+	"music_disco-2-left": {
+		"sounds": [
+			"custom:music/disco-2-left"]
+		},
+	"music_disco-2-right": {
+		"sounds": [
+			"custom:music/disco-2-right"]
+		},
 	"music_mine-campfire": {
 		"sounds": [
 			"custom:music/mine-campfire"]
@@ -110,6 +122,10 @@
 	"music_beach-ambience": {
 		"sounds": [
 			"custom:music/beach-ambience"]
+		},
+	"music_shipwreck": {
+		"sounds": [
+			"custom:music/shipwreck"]
 		},
 	"sound_test": {
 		"sounds": [
