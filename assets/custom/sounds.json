@@ -166,5 +166,13 @@
 	"sound_papers_please": {
 		"sounds": [
 			"custom:sound/papers_please"]
+		},
+	"sound_core_rumble": {
+		"sounds": [
+			"custom:sound/core_rumble"]
+		},
+	"sound_boulder": {
+		"sounds": [
+			"custom:sound/boulder"]
 		}
 }
