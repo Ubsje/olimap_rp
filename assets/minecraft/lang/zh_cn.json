@@ -1,0 +1,12 @@
+{
+    "block.minecraft.smoker": "微波炉",
+    "container.smoker": "微波炉",
+	"gui.recipebook.toggleRecipes.smokable": "仅显示可微波加热",
+	"soundCategory.music": "➡ 使用右边的滑块 ➡",
+	"soundCategory.record": "地图音乐",
+	"item.minecraft.baked_potato": "微波烤马铃薯",
+	"item.minecraft.spyglass": "间谍单目镜",
+	"item.minecraft.chainmail_helmet": "村民伪装",
+	"block.minecraft.deepslate_iron_ore": "核心石铁矿石",
+	"effect.minecraft.nausea": "眩晕"
+}
