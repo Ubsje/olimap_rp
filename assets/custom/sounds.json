@@ -127,6 +127,14 @@
 		"sounds": [
 			"custom:music/shipwreck"]
 		},
+	"music_inner-calms-tnahk": {
+		"sounds": [
+			"custom:music/inner-calms-tnahk"]
+		},
+	"music_inner-calms-ejsbu": {
+		"sounds": [
+			"custom:music/inner-calms-ejsbu"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
