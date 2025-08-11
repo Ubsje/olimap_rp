@@ -135,6 +135,10 @@
 		"sounds": [
 			"custom:music/inner-calms-ejsbu"]
 		},
+	"music_unchop": {
+		"sounds": [
+			"custom:music/unchop"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
