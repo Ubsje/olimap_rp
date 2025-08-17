@@ -135,6 +135,10 @@
 		"sounds": [
 			"custom:music/inner-calms-ejsbu"]
 		},
+	"music_inner-calms-saideulb": {
+		"sounds": [
+			"custom:music/inner-calms-saideulb"]
+		},
 	"music_unchop": {
 		"sounds": [
 			"custom:music/unchop"]
