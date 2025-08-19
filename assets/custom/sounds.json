@@ -143,6 +143,10 @@
 		"sounds": [
 			"custom:music/unchop"]
 		},
+	"music_elevator": {
+		"sounds": [
+			"custom:music/elevator"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
