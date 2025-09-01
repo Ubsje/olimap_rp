@@ -194,5 +194,9 @@
 	"sound_boulder": {
 		"sounds": [
 			"custom:sound/boulder"]
+		},
+	"sound_pipe_monster": {
+		"sounds": [
+			"custom:sound/pipe_monster"]
 		}
 }
