@@ -147,6 +147,26 @@
 		"sounds": [
 			"custom:music/elevator"]
 		},
+	"music_minigame-2": {
+		"sounds": [
+			"custom:music/minigame-2"]
+		},
+	"music_minigame-3": {
+		"sounds": [
+			"custom:music/minigame-3"]
+		},
+	"music_minigame-4": {
+		"sounds": [
+			"custom:music/minigame-4"]
+		},
+	"music_minigame-5": {
+		"sounds": [
+			"custom:music/minigame-5"]
+		},
+	"music_power-plant": {
+		"sounds": [
+			"custom:music/power-plant"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
