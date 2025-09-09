@@ -167,6 +167,18 @@
 		"sounds": [
 			"custom:music/power-plant"]
 		},
+	"music_jungle-ambience": {
+		"sounds": [
+			"custom:music/jungle-ambience"]
+		},
+	"music_jungle": {
+		"sounds": [
+			"custom:music/jungle-1",
+			"custom:music/jungle-2",
+			"custom:music/jungle-3",
+			"custom:music/jungle-4",
+			"custom:music/jungle-5"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
