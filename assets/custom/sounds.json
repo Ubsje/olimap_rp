@@ -230,5 +230,9 @@
 	"sound_pipe_monster": {
 		"sounds": [
 			"custom:sound/pipe_monster"]
+		},
+	"sound_backrooms_light": {
+		"sounds": [
+			"custom:sound/backrooms_light"]
 		}
 }

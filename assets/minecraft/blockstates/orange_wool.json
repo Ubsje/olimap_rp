@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "": [
+      { "model": "minecraft:block/orange_wool_01", "weight": 50 },
+      { "model": "minecraft:block/orange_wool_02", "weight": 50 },
+      { "model": "minecraft:block/orange_wool_03", "weight": 50 },
+      { "model": "minecraft:block/orange_wool_04", "weight": 5 },
+      { "model": "minecraft:block/orange_wool_05", "weight": 1 }
+    ]
+  }
+}
