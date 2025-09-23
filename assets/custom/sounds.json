@@ -238,5 +238,9 @@
 	"sound_pipe_monster_short": {
 		"sounds": [
 			"custom:sound/pipe_monster_short"]
+		},
+	"sound_oliver": {
+		"sounds": [
+			"custom:sound/oliver"]
 		}
 }
