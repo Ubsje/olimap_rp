@@ -179,6 +179,10 @@
 			"custom:music/jungle-4",
 			"custom:music/jungle-5"]
 		},
+	"music_sewers": {
+		"sounds": [
+			"custom:music/sewers"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
