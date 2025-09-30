@@ -8,6 +8,9 @@
 	"item.minecraft.spyglass": "Monocular O' Espionage",
 	"item.minecraft.chainmail_helmet": "Villager Disguise",
 	"item.minecraft.emerald": "Money",
+	"item.minecraft.iron_hoe": "Crowbar",
+	"item.minecraft.mace": "Upgraded Crowbar",
+	"block.minecraft.heavy_core": "Pale Core",
 	"block.minecraft.deepslate_iron_ore": "Corestone Iron Ore",
 	"effect.minecraft.nausea": "High"
 }
