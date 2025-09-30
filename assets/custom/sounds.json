@@ -246,5 +246,9 @@
 	"sound_oliver": {
 		"sounds": [
 			"custom:sound/oliver"]
+		},
+	"sound_tube": {
+		"sounds": [
+			"custom:sound/tube"]
 		}
 }
