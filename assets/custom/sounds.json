@@ -183,6 +183,14 @@
 		"sounds": [
 			"custom:music/sewers"]
 		},
+	"music_sewers-chase": {
+		"sounds": [
+			"custom:music/sewers-chase"]
+		},
+	"music_speech": {
+		"sounds": [
+			"custom:music/speech"]
+		},
 	"music_print-corp": {
 		"sounds": [
 			"custom:music/print-corp"]
@@ -254,5 +262,12 @@
 	"sound_tube": {
 		"sounds": [
 			"custom:sound/tube"]
+		},
+	"sound_printer_man": {
+		"sounds": [
+			"custom:sound/printer_man/printer_man_1",
+			"custom:sound/printer_man/printer_man_2",
+			"custom:sound/printer_man/printer_man_3",
+			"custom:sound/printer_man/printer_man_4"]
 		}
 }
