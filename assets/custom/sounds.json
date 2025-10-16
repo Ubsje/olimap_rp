@@ -269,5 +269,9 @@
 			"custom:sound/printer_man/printer_man_2",
 			"custom:sound/printer_man/printer_man_3",
 			"custom:sound/printer_man/printer_man_4"]
+		},
+	"sound_windows_xp": {
+		"sounds": [
+			"custom:sound/windows_xp"]
 		}
 }
