@@ -6,8 +6,11 @@
     "soundCategory.record": "地图音乐",
     "item.minecraft.baked_potato": "微波烤马铃薯",
     "item.minecraft.spyglass": "间谍单目镜",
-    "item.minecraft.emerald": "钱",
     "item.minecraft.chainmail_helmet": "村民伪装",
+    "item.minecraft.emerald": "钱",
+    "item.minecraft.iron_hoe": "撬棍",
+	"item.minecraft.mace": "升级版撬棍",
+	"block.minecraft.heavy_core": "苍白核心",
     "block.minecraft.deepslate_iron_ore": "核心岩铁矿石",
     "effect.minecraft.nausea": "眩晕"
 }
