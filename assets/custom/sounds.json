@@ -273,5 +273,9 @@
 	"sound_windows_xp": {
 		"sounds": [
 			"custom:sound/windows_xp"]
+		},
+	"sound_lab_recorder": {
+		"sounds": [
+			"custom:sound/recorder/lab"]
 		}
 }
