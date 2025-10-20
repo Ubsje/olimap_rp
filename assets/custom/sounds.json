@@ -187,6 +187,10 @@
 		"sounds": [
 			"custom:music/sewers-chase"]
 		},
+	"music_sewers-water": {
+		"sounds": [
+			"custom:music/sewers-water"]
+		},
 	"music_speech": {
 		"sounds": [
 			"custom:music/speech"]
