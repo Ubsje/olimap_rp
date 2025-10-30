@@ -199,6 +199,14 @@
 		"sounds": [
 			"custom:music/print-corp"]
 		},
+	"music_poolrooms": {
+		"sounds": [
+			"custom:music/poolrooms"]
+		},
+	"music_lobby": {
+		"sounds": [
+			"custom:music/lobby"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
