@@ -207,6 +207,10 @@
 		"sounds": [
 			"custom:music/lobby"]
 		},
+	"music_business-valley": {
+		"sounds": [
+			"custom:music/business-valley"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
