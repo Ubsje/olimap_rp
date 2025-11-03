@@ -293,5 +293,13 @@
 	"sound_lab_recorder": {
 		"sounds": [
 			"custom:sound/recorder/lab"]
+		},
+	"sound_stuart_recorder": {
+		"sounds": [
+			"custom:sound/recorder/stuart"]
+		},
+	"sound_ceo_recorder": {
+		"sounds": [
+			"custom:sound/recorder/ceo"]
 		}
 }
