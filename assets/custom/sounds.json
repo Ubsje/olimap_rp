@@ -301,5 +301,17 @@
 	"sound_ceo_recorder": {
 		"sounds": [
 			"custom:sound/recorder/ceo"]
+		},
+	"sound_console_boot": {
+		"sounds": [
+			"custom:sound/console_boot"]
+		},
+	"sound_console_text": {
+		"sounds": [
+			"custom:sound/console_text"]
+		},
+	"sound_timewarp": {
+		"sounds": [
+			"custom:sound/timewarp"]
 		}
 }
