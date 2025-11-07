@@ -313,5 +313,9 @@
 	"sound_timewarp": {
 		"sounds": [
 			"custom:sound/timewarp"]
+		},
+	"sound_rap": {
+		"sounds": [
+			"custom:sound/rap"]
 		}
 }
