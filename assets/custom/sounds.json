@@ -317,5 +317,9 @@
 	"sound_rap": {
 		"sounds": [
 			"custom:sound/rap"]
+		},
+	"sound_intro": {
+		"sounds": [
+			"custom:sound/intro"]
 		}
 }
