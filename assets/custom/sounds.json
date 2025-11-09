@@ -211,6 +211,10 @@
 		"sounds": [
 			"custom:music/business-valley"]
 		},
+	"music_wind": {
+		"sounds": [
+			"custom:music/wind"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
