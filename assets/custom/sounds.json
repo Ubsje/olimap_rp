@@ -224,6 +224,14 @@
 		"sounds": [
 			"custom:music/wind"]
 		},
+	"music_rap": {
+		"sounds": [
+			"custom:music/rap"]
+		},
+	"music_labs": {
+		"sounds": [
+			"custom:music/labs"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
