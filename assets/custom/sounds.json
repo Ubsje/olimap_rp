@@ -121,7 +121,16 @@
 		},
 	"music_beach-ambience": {
 		"sounds": [
-			"custom:music/beach-ambience"]
+			"custom:music/beach-ambience-1",
+			"custom:music/beach-ambience-2",
+			"custom:music/beach-ambience-3",
+			"custom:music/beach-ambience-4",
+			"custom:music/beach-ambience-5",
+			"custom:music/beach-ambience-6",
+			"custom:music/beach-ambience-7",
+			"custom:music/beach-ambience-8",
+			"custom:music/beach-ambience-9",
+			"custom:music/beach-ambience-10"]
 		},
 	"music_shipwreck": {
 		"sounds": [
@@ -210,6 +219,18 @@
 	"music_business-valley": {
 		"sounds": [
 			"custom:music/business-valley"]
+		},
+	"music_wind": {
+		"sounds": [
+			"custom:music/wind"]
+		},
+	"music_rap": {
+		"sounds": [
+			"custom:music/rap"]
+		},
+	"music_labs": {
+		"sounds": [
+			"custom:music/labs"]
 		},
 	"sound_test": {
 		"sounds": [
@@ -317,5 +338,9 @@
 	"sound_rap": {
 		"sounds": [
 			"custom:sound/rap"]
+		},
+	"sound_intro": {
+		"sounds": [
+			"custom:sound/intro"]
 		}
 }
