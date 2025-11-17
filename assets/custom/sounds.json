@@ -228,9 +228,23 @@
 		"sounds": [
 			"custom:music/rap"]
 		},
-	"music_labs": {
+	"music_labs-intro": {
 		"sounds": [
-			"custom:music/labs"]
+			"custom:music/labs-intro"]
+		},
+	"music_labs-loop": {
+		"sounds": [
+			"custom:music/labs-loop"]
+		},
+	"music_volcano": {
+		"sounds": [
+			"custom:music/volcano"]
+		},
+	"music_stop": {
+		"sounds": [
+			"custom:music/stop-1",
+			"custom:music/stop-2",
+			"custom:music/stop-3"]
 		},
 	"sound_test": {
 		"sounds": [
