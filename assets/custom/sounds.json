@@ -246,6 +246,26 @@
 			"custom:music/stop-2",
 			"custom:music/stop-3"]
 		},
+	"music_mine-escape": {
+		"sounds": [
+			"custom:music/mine-escape"]
+		},
+	"music_observatory": {
+		"sounds": [
+			"custom:music/observatory"]
+		},
+	"music_factory": {
+		"sounds": [
+			"custom:music/factory"]
+		},
+	"music_factory-evil": {
+		"sounds": [
+			"custom:music/factory-evil"]
+		},
+	"music_cloning-reveal": {
+		"sounds": [
+			"custom:music/cloning-reveal"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
