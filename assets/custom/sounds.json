@@ -376,5 +376,20 @@
 	"sound_intro": {
 		"sounds": [
 			"custom:sound/intro"]
+		},
+	"sound_cough": {
+		"sounds": [
+			"custom:sound/cough-1",
+			"custom:sound/cough-2"]
+		},
+	"sound_pen-writing": {
+		"sounds": [
+			"custom:sound/pen-writing-1",
+			"custom:sound/pen-writing-2",
+			"custom:sound/pen-writing-3"]
+		},
+	"sound_office-ambience": {
+		"sounds": [
+			"custom:sound/office-ambience"]
 		}
 }
