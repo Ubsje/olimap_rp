@@ -17774,8 +17774,8 @@
 			"to": [13.5, 3, -2.05],
 			"rotation": {"angle": 45, "axis": "y", "origin": [13.5, 2.5, -2.5], "rescale": true},
 			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#32"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#32"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#32", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#32", "tintindex": 0}
 			}
 		},
 		{
