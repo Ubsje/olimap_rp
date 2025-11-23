@@ -391,5 +391,16 @@
 	"sound_office-ambience": {
 		"sounds": [
 			"custom:sound/office-ambience"]
+		},
+	"sound_monster_scream": {
+		"sounds": [
+			"custom:sound/monster/scream-1",
+			"custom:sound/monster/scream-2",
+			"custom:sound/monster/scream-3",
+			"custom:sound/monster/scream-4",
+			"custom:sound/monster/scream-5",
+			"custom:sound/monster/scream-6",
+			"custom:sound/monster/scream-7",
+			"custom:sound/monster/scream-8"]
 		}
 }

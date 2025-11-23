@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "custom:item/house_s1",
+	"tints": [
+      {
+        "type": "minecraft:grass",
+        "temperature": 1,
+        "downfall": 1
+      }
+	]
+  }
+}
