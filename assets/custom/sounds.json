@@ -208,6 +208,10 @@
 		"sounds": [
 			"custom:music/print-corp"]
 		},
+	"music_print-corp-pve": {
+		"sounds": [
+			"custom:music/print-corp-pve"]
+		},
 	"music_poolrooms": {
 		"sounds": [
 			"custom:music/poolrooms"]
@@ -265,6 +269,10 @@
 	"music_cloning-reveal": {
 		"sounds": [
 			"custom:music/cloning-reveal"]
+		},
+	"music_stuart-release": {
+		"sounds": [
+			"custom:music/stuart-release"]
 		},
 	"sound_test": {
 		"sounds": [
