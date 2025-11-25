@@ -410,5 +410,45 @@
 			"custom:sound/monster/scream-6",
 			"custom:sound/monster/scream-7",
 			"custom:sound/monster/scream-8"]
+		},
+	"sound_printer_man_spawn": {
+		"sounds": [
+			"custom:sound/printer_man/spawn"]
+		},
+	"sound_printer_man_fireball": {
+		"sounds": [
+			"custom:sound/printer_man/fireball"]
+		},
+	"sound_printer_man_damage_dome": {
+		"sounds": [
+			"custom:sound/printer_man/damage_dome"]
+		},
+	"sound_printer_man_break_dome": {
+		"sounds": [
+			"custom:sound/printer_man/break_dome"]
+		},
+	"sound_printer_man_fall_in_lava_1": {
+		"sounds": [
+			"custom:sound/printer_man/fall_in_lava_1"]
+		},
+	"sound_printer_man_fall_in_lava_2": {
+		"sounds": [
+			"custom:sound/printer_man/fall_in_lava_2"]
+		},
+	"sound_printer_man_defeat": {
+		"sounds": [
+			"custom:sound/printer_man/defeat"]
+		},
+	"sound_printer_man_greet": {
+		"sounds": [
+			"custom:sound/printer_man/greet"]
+		},
+	"sound_printer_man_lava": {
+		"sounds": [
+			"custom:sound/printer_man/lava"]
+		},
+	"sound_printer_man_laugh": {
+		"sounds": [
+			"custom:sound/printer_man/laugh"]
 		}
 }
