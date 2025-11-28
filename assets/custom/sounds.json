@@ -450,5 +450,9 @@
 	"sound_printer_man_laugh": {
 		"sounds": [
 			"custom:sound/printer_man/laugh"]
+		},
+	"sound_parlor_cam": {
+		"sounds": [
+			"custom:sound/parlor_cam"]
 		}
 }
