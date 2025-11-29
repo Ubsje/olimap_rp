@@ -274,6 +274,22 @@
 		"sounds": [
 			"custom:music/stuart-release"]
 		},
+	"music_epilogue": {
+		"sounds": [
+			"custom:music/ending/epilogue"]
+		},
+	"music_good-ending": {
+		"sounds": [
+			"custom:music/ending/good"]
+		},
+	"music_bad-ending": {
+		"sounds": [
+			"custom:music/ending/bad"]
+		},
+	"music_credits": {
+		"sounds": [
+			"custom:music/ending/credits"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
