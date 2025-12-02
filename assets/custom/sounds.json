@@ -290,6 +290,26 @@
 		"sounds": [
 			"custom:music/ending/credits"]
 		},
+	"music_bossfight-1": {
+		"sounds": [
+			"custom:music/bossfight-1"]
+		},
+	"music_bossfight-2": {
+		"sounds": [
+			"custom:music/bossfight-2"]
+		},
+	"music_bossfight-3": {
+		"sounds": [
+			"custom:music/bossfight-3"]
+		},
+	"music_bossfight-end": {
+		"sounds": [
+			"custom:music/bossfight-end"]
+		},
+	"music_bossfight": {
+		"sounds": [
+			"custom:music/bossfight"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]

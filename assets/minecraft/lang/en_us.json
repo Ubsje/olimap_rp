@@ -13,5 +13,6 @@
 	"item.minecraft.stone_pickaxe": "Diorite Pickaxe",
 	"block.minecraft.heavy_core": "Pale Core",
 	"block.minecraft.deepslate_iron_ore": "Corestone Iron Ore",
-	"effect.minecraft.nausea": "High"
+	"effect.minecraft.nausea": "High",
+	"sleep.not_possible": "This is no time to sleep!"
 }
