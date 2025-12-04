@@ -310,6 +310,10 @@
 		"sounds": [
 			"custom:music/bossfight"]
 		},
+	"music_ominous": {
+		"sounds": [
+			"custom:music/ominous"]
+		},
 	"sound_test": {
 		"sounds": [
 			"custom:sound/test"]
