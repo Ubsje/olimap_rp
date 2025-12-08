@@ -115,6 +115,10 @@
 		"sounds": [
 			"custom:music/town-square"]
 		},
+	"music_town-square-night": {
+		"sounds": [
+			"custom:music/town-square-night"]
+		},
 	"music_living-area": {
 		"sounds": [
 			"custom:music/living-area"]
@@ -313,6 +317,10 @@
 	"music_ominous": {
 		"sounds": [
 			"custom:music/ominous"]
+		},
+	"music_intro": {
+		"sounds": [
+			"custom:music/intro"]
 		},
 	"sound_test": {
 		"sounds": [
