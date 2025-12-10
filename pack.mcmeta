@@ -2,6 +2,6 @@
 "pack": {
         "min_format": [69, 0],
         "max_format": [69, 0],
-		"description": "Olimap"
+		"description": "Resources for the adventure map for About Oliver"
 	}
 }
