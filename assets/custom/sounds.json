@@ -11,10 +11,6 @@
 		"sounds": [
 			"custom:music/apartment"]
 		},
-	"music_scary": {
-		"sounds": [
-			"custom:music/scary"]
-		},
 	"music_airplane": {
 		"sounds": [
 			"custom:music/airplane"]
