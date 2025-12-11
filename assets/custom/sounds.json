@@ -250,6 +250,16 @@
 			"custom:music/stop-2",
 			"custom:music/stop-3"]
 		},
+	"music_new-stop": {
+		"sounds": [
+			"custom:music/new-stop-1",
+			"custom:music/new-stop-2",
+			"custom:music/new-stop-3"]
+		},
+	"music_new-stop-bwoop": {
+		"sounds": [
+			"custom:music/bwoop"]
+		},
 	"music_mine-escape": {
 		"sounds": [
 			"custom:music/mine-escape"]
