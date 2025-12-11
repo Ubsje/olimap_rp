@@ -1,6 +1,8 @@
 {
+	"incorrect-language": "",
     "block.minecraft.smoker": "微波炉",
     "container.smoker": "微波炉",
+	"container.repair": "Donavan",
     "gui.recipebook.toggleRecipes.smokable": "仅显示可微波加热",
     "soundCategory.music": "➡ 使用右边的滑块 ➡",
     "soundCategory.record": "地图音乐",
@@ -13,5 +15,6 @@
 	"item.minecraft.stone_pickaxe": "闪长岩镐",
 	"block.minecraft.heavy_core": "苍白核心",
     "block.minecraft.deepslate_iron_ore": "核心岩铁矿石",
-    "effect.minecraft.nausea": "眩晕"
+    "effect.minecraft.nausea": "眩晕",
+	"sleep.not_possible": "现在可不是睡觉的时候！"
 }
